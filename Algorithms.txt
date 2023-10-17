@@ -1,0 +1,79 @@
+-------------------------------------------------------------If Else Switch Case-------------------------------------------------------------------------------------
+1. İstifadəçidən 3 ədəd alın. Bu ədədlərin üçbucağın tərəfi olub olmadığını yoxlayan proqram tərtib edin
+
+2. İstifadəçidən 3 ədəd alın. Onların bərabərtərəfli üçbucaq olduğunu təyin edən proqram tərtib edin.
+
+3. İstifadəçidən 2 ədəd alın. Hansının ən böyük olduğunu tapan proqram tərtib edin
+
+4. İstifadəçidən 3 ədəd alın. Hansının ən böyük olduğunu tərtib edin.
+
+5. İstifadəçidən 3 ədəd alın. Onları artan sıra ilə düzən proqram tərtib edin.
+
+6. Kinoteatra bilet satan proqram yazın. Şərtlər: Bilet qiyməti 10 AZN, yaş 18+ olmalıdır, yaş 18-dirsə minimum 3 bilet almalıdır.
+
+7. Bankomat proqramı tərtib edin. 1-düyməsini seçdikdə balans ekranda göstərilsin. 2-düyməsini seçdikdə balansa mədaxil olunsun və balans ekranda göstərilsin,
+	3-düyməsini seçdikdə balansdan pul çıxarılsın. 4-düyməsini seçdikdə çıxış verilsin.
+-------------------------------------------------------------Loops----------------------------------------------------------------------------------------------------
+1. Son rəqəmi 7 olan bütün iki rəqəmli ədədləri çapa verən proqram tərtib edin.
+
+2. Rəqəmləri eyni olan bütün iki rəqəmli ədələrin çapa verən proqram tərtib edin.
+
+3. Verilmiş ədədi rəqəmlərinə ayıran proqram tərtib edin.
+
+4. Verilmiş ədədin rəqəmlərindən ən böyük olanı təyin edən proqram tərtib edin.
+
+5. Verilmiş ədədin rəqəmlərinin cəmini, hasilini və ədədi ortasını tapan proqram tərtib edin. 
+
+6. Verilmiş ədədin bütün bölənlərini tapan proqram tərtib edin.
+
+7. Verilmiş ədədin bölənlərinin sayını tapan proqram tərtib edin.
+
+   let arr=[3,8,2,5,4,10,7,6]
+8. Verilmiş array-in tək elementlərinin indeksini çapa verən proqram tərtib edin.
+
+9. Verilmiş array-in tək indeksli elementlərini çapa verən proqram tərtib edin.
+
+10. Verilmiş array-in max elementini çapa verən proqram tərtib edin.
+
+11. Verilmiş array-in cüt elementlərinin max elementini çapa verən proqram tərtib edin.
+
+12. Verilmiş array-in min elementinin indeksini çapa verən proqram tərtib edin.
+
+13. Verilmiş array-in min elementi ilə max elementinin yerini dəyişən proqram tərtib edin
+
+14. Verilmiş array-in  cüt elementlərinin min elementi ilə tək elementlərinin max elementinin yerini dəyişən proqram tərtib edin
+
+15. Daxil olunan ədədin array-də olub olmadığını təyin edən proqram tərtib edin.
+
+16. Verilmiş array-də min və max elementi nəzərə almadan yerdə qalan bütün elementlərin cəmini tapın.
+
+ let arr=[2,9,-5,-4,"AzerBayCan",true,12,"LANKARAN","LimOn",182,4]
+
+17. Verilmiş array-in bool tipinde olan elementin qonsu elementlerini ekrana cixaran proqram yazin
+
+18. Verilmiş array-in ən uzun sözünü ekrana çıxaran proqram yazın
+
+19. Verilmiş array-in bütün hərfləri böyük olan sözün özünü və indeksini çapa çıxaran proqram yazın.
+
+20. Verilmiş array-in 2-dən artıq böyük hərfi olan elementlərini çapa çıxaran proqram yazın
+
+21. 4 funksiya yazın. Hər biri 2 parametr qəbul etsin və riyazi əməlləri yerinə yetirsin.
+
+22. Elə bir funksiya yazın ki, 3 parametr qəbul etsin, 2 ədəd və 1 ədəd operator. Operatora uygun nəticəni return etsin.
+23. Sadəcə ölkə adlarının olduğu array-ı return edən funksiya yazın
+
+24. Hərfə görə ölkə sayının olduğu object return edən funksiya yazın
+
+25. Ən çox şəhəri olan ölkə adını return edən funksiya yazın
+
+26. Ölkə adı ən uzun olan ölkənin şəhərlərini return edən funksiya
+
+27.  Bütün ölkələrin şəhər saylarının olduğu objecti return edən funksiya yazın .Nümunə {"Azerbaijan":70,"Turkey":300}
+
+
+
+
+
+
+extra: Mətn daxilindən uzunluğu 40-50 xarakter arasında olan təsadüfi mətni return edən funksiya yazın
+
