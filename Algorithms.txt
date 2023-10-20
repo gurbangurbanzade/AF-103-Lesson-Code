@@ -70,6 +70,62 @@
 
 27.  Bütün ölkələrin şəhər saylarının olduğu objecti return edən funksiya yazın .Nümunə {"Azerbaijan":70,"Turkey":300}
 
+28. Array-in bütün elementlərini kvadrata yüksəldib yeni array qaytaran proqram yazın.
+
+29. Array-in müsbət elementlərinin cəmini tapan funksiya yazın. Əgər array-in bütün elementləri 	mənfidirsə geriyə 0 qaytarsın.
+30. Array-in median və ədədi ortasını obyekt tərkibində return edən funksiya yazın. Median- ən kiçik 	element ilə ən böyük elementin ədədi ortasıdır.
+31. Hər hansı bir cümlədə istənilən  böyük hərflə olan simvolları birləşdirib qaytaran funksiya 	yazın. "My name is Gurban" - "MniG"
+32. Cümlədə olan bütün sözləri ixtisar edən proqram tərtib edin. Əgər söz 4 hərfdən azdırsa o 		qısaldılmır. İxtisar zamanı başdakı və sondakı hərflər saxlanılır, ortada olan hərflərin sayı 	yazılır. Cümlədə heç bir durğu işarəsi olmayacaq. Məsələn qurban-q4n, stəkan-s4n, javascript-	j8t
+
+
+
+
+
+
+
+
+1. Canli adında bir klas yaradan
+2. 3 eded key qebul eosin
+3. Bu klasdan 3 eded miras alan klass yaradin
+4. Insanlar hayvanlar yadPlanetliler
+5. Canli klasında ele bir metod olsunki her birinde
+	istifade olunsun
+6. Canal klasinda ele bir metod olsunki her birinde
+	override olunsun
+7. Miras alinan klaslarda private key olsun
+8. Miras alinan klaslarda get metodu vasitesi ile
+	fullInfo adında key olsun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
