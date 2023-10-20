@@ -74,8 +74,25 @@
 
 29. Array-in müsbət elementlərinin cəmini tapan funksiya yazın. Əgər array-in bütün elementləri 	mənfidirsə geriyə 0 qaytarsın.
 30. Array-in median və ədədi ortasını obyekt tərkibində return edən funksiya yazın. Median- ən kiçik 	element ilə ən böyük elementin ədədi ortasıdır.
-31. Hər hansı bir cümlədə istənilən  böyük hərflə olan simvolları birləşdirib qaytaran funksiya 	yazın. "My name is Gurban" - "MniG"
+31. Hər hansı bir cümlədə istənilən  baş hərflə olan simvolları birləşdirib qaytaran funksiya 		yazın. "My name is Gurban" - "MniG"
 32. Cümlədə olan bütün sözləri ixtisar edən proqram tərtib edin. Əgər söz 4 hərfdən azdırsa o 		qısaldılmır. İxtisar zamanı başdakı və sondakı hərflər saxlanılır, ortada olan hərflərin sayı 	yazılır. Cümlədə heç bir durğu işarəsi olmayacaq. Məsələn qurban-q4n, stəkan-s4n, javascript-	j8t
+33. İçərisində name və age key-ləri olan obyektlərdən təşkil olunmuş bir array var. Ən az yaşı olan 	ilə ən çox yaşı olan elementin yaşlarını və onların fərqini array şəklində qaytaran funksiya 	yazın. Məsələn - [13,67,54]
+34. N faktorialı hesaplayan funksiya yazın.
+
+35. const input = [
+  ["a", "b", "c"],
+  ["c", "d", "f"],
+  ["d", "f", "g"],
+	];              2D massivini sıralayan funksiya yazın. 
+	Output - {
+    a: 1,
+    b: 1,
+    c: 2,
+    d: 2,
+    f: 2,
+    g: 1,
+ 	 }
+36.
 
 
 
