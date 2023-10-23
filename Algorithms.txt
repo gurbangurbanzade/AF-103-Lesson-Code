@@ -128,23 +128,12 @@
 ]; ortalama maaşı 65000-dən çok olan departamentləri çapa verən program tərtib edin. Ayni zamanda artan maaşı artan sıra 
 	sıra ilə düzən program tərtib edin
 
+39. Verilmiş array daxilində array-lərin sayını hesaplayan program tərtib edin. İç-içə istənilən
+	qədər array ola bilər inputda
 
+40. Array-də faktorial zəncirinin club olmadığını təyin edən program tərtib edin.
 
-
-
-
-1. Canli adında bir klas yaradan
-2. 3 eded key qebul eosin
-3. Bu klasdan 3 eded miras alan klass yaradin
-4. Insanlar hayvanlar yadPlanetliler
-5. Canli klasında ele bir metod olsunki her birinde
-	istifade olunsun
-6. Canal klasinda ele bir metod olsunki her birinde
-	override olunsun
-7. Miras alinan klaslarda private key olsun
-8. Miras alinan klaslarda get metodu vasitesi ile
-	fullInfo adında key olsun
-
+41. Ədədlər array-ində 3-cü ən büyük ədədi tapan program tərtib edin.
 
 
 
