@@ -1,4 +1,5 @@
 -------------------------------------------------------------If Else Switch Case-------------------------------------------------------------------------------------
+https://medium.com/@andrei_diaconu/it-beginner-series-javascript-if-else-exercises-cfc5d65b6f94
 1. İstifadəçidən 3 ədəd alın. Bu ədədlərin üçbucağın tərəfi olub olmadığını yoxlayan proqram tərtib edin
 
 2. İstifadəçidən 3 ədəd alın. Onların bərabərtərəfli üçbucaq olduğunu təyin edən proqram tərtib edin.
@@ -60,7 +61,8 @@
 21. 4 funksiya yazın. Hər biri 2 parametr qəbul etsin və riyazi əməlləri yerinə yetirsin.
 
 22. Elə bir funksiya yazın ki, 3 parametr qəbul etsin, 2 ədəd və 1 ədəd operator. Operatora uygun nəticəni return etsin.
-23. Sadəcə ölkə adlarının olduğu array-ı return edən funksiya yazın
+
+23. Sadəcə ölkə adlarının olduğu array-ı return edən funksiya yazın
 
 24. Hərfə görə ölkə sayının olduğu object return edən funksiya yazın
 
